@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0066-plus-one) |
 | [0283-move-zeroes](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0283-move-zeroes) |
 ## Two Pointers
 |  |
@@ -18,4 +19,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0053-maximum-subarray) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
