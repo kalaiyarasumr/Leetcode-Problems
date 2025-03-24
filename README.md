@@ -22,5 +22,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
