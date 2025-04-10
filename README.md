@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0125-valid-palindrome) |
+| [0387-first-unique-character-in-a-string](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 ## Greedy
 |  |
 | ------- |
@@ -64,9 +65,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0232-implement-queue-using-stacks) |
+| [0387-first-unique-character-in-a-string](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Simulation
 |  |
 | ------- |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+## Hash Table
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
