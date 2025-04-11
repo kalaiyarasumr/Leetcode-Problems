@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0189-rotate-array) |
+| [2998-count-symmetric-integers](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/2998-count-symmetric-integers) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/3243-count-the-number-of-powerful-integers) |
 ## String
 |  |
@@ -106,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
+## Enumeration
+|  |
+| ------- |
+| [2998-count-symmetric-integers](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/2998-count-symmetric-integers) |
 <!---LeetCode Topics End-->
