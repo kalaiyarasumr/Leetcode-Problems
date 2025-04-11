@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0485-max-consecutive-ones) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Two Pointers
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0035-search-insert-position) |
+| [0349-intersection-of-two-arrays](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 ## Stack
 |  |
 | ------- |
@@ -84,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 ## Counting
 |  |
@@ -93,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0136-single-number) |
+## Sorting
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
