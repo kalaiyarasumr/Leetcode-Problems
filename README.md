@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [0228-summary-ranges](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0228-summary-ranges) |
+| [0268-missing-number](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0268-missing-number) |
 | [2998-count-symmetric-integers](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/2998-count-symmetric-integers) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/3243-count-the-number-of-powerful-integers) |
 ## String
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Stack
@@ -92,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
@@ -103,9 +107,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0268-missing-number) |
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Enumeration
