@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0268-missing-number) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0013-roman-to-integer) |
 | [0125-valid-palindrome](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0125-valid-palindrome) |
 | [0387-first-unique-character-in-a-string](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/3243-count-the-number-of-powerful-integers) |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
