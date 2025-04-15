@@ -82,6 +82,7 @@ This repository helps me:
 |  |
 | ------- |
 | [1970-sorting-the-sentence](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/1970-sorting-the-sentence) |
+| [1999-longer-contiguous-segments-of-ones-than-zeros](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/1999-longer-contiguous-segments-of-ones-than-zeros) |
 ## Sorting
 |  |
 | ------- |
