@@ -75,3 +75,15 @@ This repository helps me:
 ---
 
 ⭐ If you found this repo helpful or inspiring, don’t forget to star it!
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## String
+|  |
+| ------- |
+| [1970-sorting-the-sentence](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/1970-sorting-the-sentence) |
+## Sorting
+|  |
+| ------- |
+| [1970-sorting-the-sentence](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/1970-sorting-the-sentence) |
+<!---LeetCode Topics End-->
