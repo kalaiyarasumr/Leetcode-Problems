@@ -95,6 +95,7 @@ This repository helps me:
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0015-3sum) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0151-reverse-words-in-a-string) |
 ## Dynamic Programming
 |  |
@@ -104,4 +105,8 @@ This repository helps me:
 |  |
 | ------- |
 | [0015-3sum](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0015-3sum) |
+## Linked List
+|  |
+| ------- |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 <!---LeetCode Topics End-->
