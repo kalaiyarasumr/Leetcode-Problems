@@ -82,6 +82,7 @@ This repository helps me:
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0005-longest-palindromic-substring) |
+| [0151-reverse-words-in-a-string](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [1970-sorting-the-sentence](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/1970-sorting-the-sentence) |
 | [1999-longer-contiguous-segments-of-ones-than-zeros](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/1999-longer-contiguous-segments-of-ones-than-zeros) |
 ## Sorting
@@ -94,6 +95,7 @@ This repository helps me:
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0015-3sum) |
+| [0151-reverse-words-in-a-string](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0151-reverse-words-in-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
