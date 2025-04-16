@@ -81,10 +81,19 @@ This repository helps me:
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [1970-sorting-the-sentence](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/1970-sorting-the-sentence) |
 | [1999-longer-contiguous-segments-of-ones-than-zeros](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/1999-longer-contiguous-segments-of-ones-than-zeros) |
 ## Sorting
 |  |
 | ------- |
 | [1970-sorting-the-sentence](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/1970-sorting-the-sentence) |
+## Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0005-longest-palindromic-substring) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
