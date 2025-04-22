@@ -39,10 +39,15 @@
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0069-sqrtx) |
 | [0168-excel-sheet-column-title](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0168-excel-sheet-column-title) |
 | [0415-add-strings](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0415-add-strings) |
 ## Simulation
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0415-add-strings) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
