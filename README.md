@@ -32,6 +32,7 @@
 | [0455-assign-cookies](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0455-assign-cookies) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1848-sum-of-unique-elements](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/1848-sum-of-unique-elements) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/2856-count-complete-subarrays-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -39,6 +40,7 @@
 | [0599-minimum-index-sum-of-two-lists](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1297-maximum-number-of-balloons](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/1297-maximum-number-of-balloons) |
 | [1848-sum-of-unique-elements](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/1848-sum-of-unique-elements) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/2856-count-complete-subarrays-in-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -85,4 +87,8 @@
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0455-assign-cookies) |
+## Sliding Window
+|  |
+| ------- |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/2856-count-complete-subarrays-in-an-array) |
 <!---LeetCode Topics End-->
