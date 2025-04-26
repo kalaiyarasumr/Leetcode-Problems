@@ -32,6 +32,7 @@
 | [0455-assign-cookies](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0455-assign-cookies) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1848-sum-of-unique-elements](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/1848-sum-of-unique-elements) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/2856-count-complete-subarrays-in-an-array) |
 ## Hash Table
 |  |
@@ -90,5 +91,14 @@
 ## Sliding Window
 |  |
 | ------- |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/2856-count-complete-subarrays-in-an-array) |
+## Queue
+|  |
+| ------- |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/2527-count-subarrays-with-fixed-bounds) |
+## Monotonic Queue
+|  |
+| ------- |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/2527-count-subarrays-with-fixed-bounds) |
 <!---LeetCode Topics End-->
