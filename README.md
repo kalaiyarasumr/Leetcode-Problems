@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0234-palindrome-linked-list](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0234-palindrome-linked-list) |
 | [0455-assign-cookies](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0455-assign-cookies) |
 ## String
 |  |
@@ -81,6 +82,7 @@
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0234-palindrome-linked-list](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0234-palindrome-linked-list) |
 ## Greedy
 |  |
 | ------- |
@@ -102,4 +104,12 @@
 |  |
 | ------- |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/2527-count-subarrays-with-fixed-bounds) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0234-palindrome-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
