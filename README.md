@@ -125,10 +125,23 @@
 ## Stack
 |  |
 | ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0234-palindrome-linked-list) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Recursion
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0234-palindrome-linked-list) |
+## Tree
+|  |
+| ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
