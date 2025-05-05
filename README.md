@@ -37,6 +37,7 @@
 ## Array
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0064-minimum-path-sum) |
 | [0287-find-the-duplicate-number](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0455-assign-cookies) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -84,6 +85,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0806-domino-and-tromino-tiling](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0806-domino-and-tromino-tiling) |
 ## Memoization
@@ -147,4 +149,8 @@
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
+## Matrix
+|  |
+| ------- |
+| [0064-minimum-path-sum](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0064-minimum-path-sum) |
 <!---LeetCode Topics End-->
