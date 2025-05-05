@@ -85,6 +85,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0070-climbing-stairs) |
+| [0806-domino-and-tromino-tiling](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0806-domino-and-tromino-tiling) |
 ## Memoization
 |  |
 | ------- |
