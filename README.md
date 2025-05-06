@@ -43,6 +43,7 @@
 | [0455-assign-cookies](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0455-assign-cookies) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1848-sum-of-unique-elements](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/1848-sum-of-unique-elements) |
+| [2048-build-array-from-permutation](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/2048-build-array-from-permutation) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
@@ -78,6 +79,7 @@
 | [0043-multiply-strings](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0415-add-strings) |
+| [2048-build-array-from-permutation](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/2048-build-array-from-permutation) |
 ## Binary Search
 |  |
 | ------- |
