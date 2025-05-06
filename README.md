@@ -37,6 +37,7 @@
 ## Array
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0064-minimum-path-sum](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0064-minimum-path-sum) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0287-find-the-duplicate-number](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
@@ -83,6 +84,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0069-sqrtx) |
 | [0287-find-the-duplicate-number](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 ## Dynamic Programming
