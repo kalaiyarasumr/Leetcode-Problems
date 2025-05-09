@@ -44,6 +44,7 @@
 | [0287-find-the-duplicate-number](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0455-assign-cookies) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0682-baseball-game](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0682-baseball-game) |
 | [1848-sum-of-unique-elements](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/1848-sum-of-unique-elements) |
 | [2048-build-array-from-permutation](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/2048-build-array-from-permutation) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/2527-count-subarrays-with-fixed-bounds) |
@@ -81,6 +82,7 @@
 | [0043-multiply-strings](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0415-add-strings) |
+| [0682-baseball-game](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0682-baseball-game) |
 | [2048-build-array-from-permutation](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/2048-build-array-from-permutation) |
 ## Binary Search
 |  |
@@ -140,6 +142,7 @@
 | [0032-longest-valid-parentheses](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0032-longest-valid-parentheses) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0234-palindrome-linked-list) |
+| [0682-baseball-game](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0682-baseball-game) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Recursion
 |  |
