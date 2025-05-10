@@ -49,6 +49,7 @@
 | [2048-build-array-from-permutation](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/2048-build-array-from-permutation) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Hash Table
@@ -117,6 +118,7 @@
 | [0455-assign-cookies](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0680-valid-palindrome-ii) |
 | [2032-largest-odd-number-in-string](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/2032-largest-odd-number-in-string) |
+| [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 ## Sorting
 |  |
 | ------- |
