@@ -48,6 +48,7 @@
 | [0455-assign-cookies](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0455-assign-cookies) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0682-baseball-game](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0682-baseball-game) |
+| [1293-three-consecutive-odds](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/1293-three-consecutive-odds) |
 | [1848-sum-of-unique-elements](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/1848-sum-of-unique-elements) |
 | [2048-build-array-from-permutation](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/2048-build-array-from-permutation) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/2527-count-subarrays-with-fixed-bounds) |
