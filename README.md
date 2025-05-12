@@ -25,6 +25,7 @@
 | [0205-isomorphic-strings](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0205-isomorphic-strings) |
 | [0415-add-strings](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0415-add-strings) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0678-valid-parenthesis-string](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0680-valid-palindrome-ii) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1297-maximum-number-of-balloons](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/1297-maximum-number-of-balloons) |
@@ -106,6 +107,7 @@
 | [0032-longest-valid-parentheses](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0032-longest-valid-parentheses) |
 | [0064-minimum-path-sum](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0070-climbing-stairs) |
+| [0678-valid-parenthesis-string](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0678-valid-parenthesis-string) |
 | [0806-domino-and-tromino-tiling](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0806-domino-and-tromino-tiling) |
 ## Memoization
 |  |
@@ -125,6 +127,7 @@
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0455-assign-cookies) |
+| [0678-valid-parenthesis-string](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0680-valid-palindrome-ii) |
 | [2032-largest-odd-number-in-string](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/2032-largest-odd-number-in-string) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
@@ -154,6 +157,7 @@
 | [0032-longest-valid-parentheses](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0032-longest-valid-parentheses) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0234-palindrome-linked-list) |
+| [0678-valid-parenthesis-string](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0682-baseball-game) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Recursion
