@@ -31,6 +31,7 @@
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1297-maximum-number-of-balloons](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/1297-maximum-number-of-balloons) |
 | [2032-largest-odd-number-in-string](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/2032-largest-odd-number-in-string) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## String Matching
 |  |
 | ------- |
@@ -56,6 +57,7 @@
 | [2215-finding-3-digit-even-numbers](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/2215-finding-3-digit-even-numbers) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
@@ -110,6 +112,7 @@
 | [0070-climbing-stairs](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0678-valid-parenthesis-string](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0678-valid-parenthesis-string) |
 | [0806-domino-and-tromino-tiling](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0806-domino-and-tromino-tiling) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Memoization
 |  |
 | ------- |
@@ -132,6 +135,7 @@
 | [0678-valid-parenthesis-string](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0680-valid-palindrome-ii) |
 | [2032-largest-odd-number-in-string](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/2032-largest-odd-number-in-string) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 ## Sorting
 |  |
