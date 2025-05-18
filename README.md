@@ -11,6 +11,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
+| [0392-is-subsequence](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0680-valid-palindrome-ii) |
 | [0874-backspace-string-compare](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0874-backspace-string-compare) |
@@ -28,6 +29,7 @@
 | [0205-isomorphic-strings](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0290-word-pattern) |
 | [0389-find-the-difference](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0392-is-subsequence) |
 | [0415-add-strings](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0415-add-strings) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0678-valid-parenthesis-string](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0678-valid-parenthesis-string) |
@@ -119,6 +121,7 @@
 | [0032-longest-valid-parentheses](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0032-longest-valid-parentheses) |
 | [0064-minimum-path-sum](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0070-climbing-stairs) |
+| [0392-is-subsequence](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0392-is-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0678-valid-parenthesis-string) |
 | [0806-domino-and-tromino-tiling](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0806-domino-and-tromino-tiling) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
