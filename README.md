@@ -38,6 +38,7 @@
 | [0874-backspace-string-compare](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0874-backspace-string-compare) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1297-maximum-number-of-balloons](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/1297-maximum-number-of-balloons) |
+| [1542-consecutive-characters](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/1542-consecutive-characters) |
 | [2032-largest-odd-number-in-string](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/2032-largest-odd-number-in-string) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## String Matching
