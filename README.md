@@ -23,6 +23,7 @@
 | [0014-longest-common-prefix](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0032-longest-valid-parentheses) |
+| [0038-count-and-say](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0168-excel-sheet-column-title) |
