@@ -69,6 +69,7 @@
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3321-type-of-triangle](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/3321-type-of-triangle) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Hash Table
 |  |
@@ -100,6 +101,7 @@
 | [0168-excel-sheet-column-title](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0168-excel-sheet-column-title) |
 | [0415-add-strings](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0415-add-strings) |
 | [2032-largest-odd-number-in-string](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/2032-largest-odd-number-in-string) |
+| [3321-type-of-triangle](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/3321-type-of-triangle) |
 ## Simulation
 |  |
 | ------- |
@@ -158,6 +160,7 @@
 | [0389-find-the-difference](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0455-assign-cookies) |
 | [2215-finding-3-digit-even-numbers](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/2215-finding-3-digit-even-numbers) |
+| [3321-type-of-triangle](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/3321-type-of-triangle) |
 ## Sliding Window
 |  |
 | ------- |
