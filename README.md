@@ -61,6 +61,7 @@
 | [0064-minimum-path-sum](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0075-sort-colors) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0135-candy](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0135-candy) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0455-assign-cookies) |
@@ -161,6 +162,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0135-candy) |
 | [0455-assign-cookies](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0680-valid-palindrome-ii) |
