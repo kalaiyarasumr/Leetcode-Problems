@@ -116,6 +116,7 @@
 | [0168-excel-sheet-column-title](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0168-excel-sheet-column-title) |
 | [0415-add-strings](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0415-add-strings) |
 | [2032-largest-odd-number-in-string](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/2032-largest-odd-number-in-string) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3321-type-of-triangle](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/3321-type-of-triangle) |
 ## Simulation
 |  |
@@ -168,6 +169,7 @@
 | [0680-valid-palindrome-ii](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0680-valid-palindrome-ii) |
 | [2032-largest-odd-number-in-string](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/2032-largest-odd-number-in-string) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 ## Sorting
