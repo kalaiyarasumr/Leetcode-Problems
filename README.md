@@ -18,6 +18,7 @@
 | [0680-valid-palindrome-ii](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0680-valid-palindrome-ii) |
 | [0874-backspace-string-compare](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0874-backspace-string-compare) |
 | [2128-reverse-prefix-of-word](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/2128-reverse-prefix-of-word) |
+| [2816-lexicographically-smallest-palindrome](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/2816-lexicographically-smallest-palindrome) |
 ## String
 |  |
 | ------- |
@@ -47,6 +48,7 @@
 | [2032-largest-odd-number-in-string](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/2032-largest-odd-number-in-string) |
 | [2128-reverse-prefix-of-word](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/2128-reverse-prefix-of-word) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2816-lexicographically-smallest-palindrome](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/2816-lexicographically-smallest-palindrome) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## String Matching
 |  |
@@ -179,6 +181,7 @@
 | [2032-largest-odd-number-in-string](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/2032-largest-odd-number-in-string) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/2704-maximum-difference-by-remapping-a-digit) |
+| [2816-lexicographically-smallest-palindrome](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/2816-lexicographically-smallest-palindrome) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 ## Sorting
