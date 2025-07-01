@@ -19,6 +19,7 @@
 | [0874-backspace-string-compare](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0874-backspace-string-compare) |
 | [2128-reverse-prefix-of-word](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/2128-reverse-prefix-of-word) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/2816-lexicographically-smallest-palindrome) |
+| [3165-find-indices-with-index-and-value-difference-i](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 ## String
 |  |
 | ------- |
@@ -85,6 +86,7 @@
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3165-find-indices-with-index-and-value-difference-i](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3321-type-of-triangle](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/3321-type-of-triangle) |
