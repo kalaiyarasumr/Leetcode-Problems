@@ -83,6 +83,7 @@
 | [1293-three-consecutive-odds](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/1293-three-consecutive-odds) |
 | [1848-sum-of-unique-elements](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/1848-sum-of-unique-elements) |
 | [2048-build-array-from-permutation](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/2048-build-array-from-permutation) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/2527-count-subarrays-with-fixed-bounds) |
@@ -140,6 +141,7 @@
 | [0682-baseball-game](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0682-baseball-game) |
 | [0874-backspace-string-compare](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0874-backspace-string-compare) |
 | [2048-build-array-from-permutation](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/2048-build-array-from-permutation) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -250,6 +252,7 @@
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0064-minimum-path-sum) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Divide and Conquer
 |  |
 | ------- |
