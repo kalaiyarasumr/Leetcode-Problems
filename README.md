@@ -17,6 +17,7 @@
 | [0455-assign-cookies](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0680-valid-palindrome-ii) |
 | [0874-backspace-string-compare](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0874-backspace-string-compare) |
+| [1019-squares-of-a-sorted-array](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/1019-squares-of-a-sorted-array) |
 | [2128-reverse-prefix-of-word](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/2128-reverse-prefix-of-word) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/2816-lexicographically-smallest-palindrome) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/3165-find-indices-with-index-and-value-difference-i) |
@@ -77,6 +78,7 @@
 | [0599-minimum-index-sum-of-two-lists](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0682-baseball-game](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0682-baseball-game) |
 | [0837-most-common-word](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0837-most-common-word) |
+| [1019-squares-of-a-sorted-array](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1044-find-common-characters](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/1044-find-common-characters) |
 | [1293-three-consecutive-odds](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/1293-three-consecutive-odds) |
 | [1848-sum-of-unique-elements](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/1848-sum-of-unique-elements) |
@@ -194,6 +196,7 @@
 | [0075-sort-colors](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0075-sort-colors) |
 | [0389-find-the-difference](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0455-assign-cookies) |
+| [1019-squares-of-a-sorted-array](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/1019-squares-of-a-sorted-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/2215-finding-3-digit-even-numbers) |
 | [3321-type-of-triangle](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/3321-type-of-triangle) |
 ## Sliding Window
