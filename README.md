@@ -18,6 +18,7 @@
 | [0541-reverse-string-ii](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0680-valid-palindrome-ii) |
+| [0696-count-binary-substrings](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0696-count-binary-substrings) |
 | [0874-backspace-string-compare](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0874-backspace-string-compare) |
 | [1019-squares-of-a-sorted-array](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/1019-squares-of-a-sorted-array) |
 | [2128-reverse-prefix-of-word](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/2128-reverse-prefix-of-word) |
@@ -45,6 +46,7 @@
 | [0599-minimum-index-sum-of-two-lists](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0678-valid-parenthesis-string](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0680-valid-palindrome-ii) |
+| [0696-count-binary-substrings](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0696-count-binary-substrings) |
 | [0837-most-common-word](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0837-most-common-word) |
 | [0874-backspace-string-compare](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0874-backspace-string-compare) |
 | [1044-find-common-characters](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/1044-find-common-characters) |
