@@ -133,6 +133,7 @@
 | [0069-sqrtx](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0168-excel-sheet-column-title) |
+| [0258-add-digits](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0415-add-strings) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2032-largest-odd-number-in-string](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/2032-largest-odd-number-in-string) |
@@ -143,6 +144,7 @@
 | ------- |
 | [0043-multiply-strings](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0415-add-strings) |
 | [0682-baseball-game](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0682-baseball-game) |
 | [0874-backspace-string-compare](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0874-backspace-string-compare) |
@@ -276,4 +278,8 @@
 | ------- |
 | [0039-combination-sum](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0046-permutations) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
