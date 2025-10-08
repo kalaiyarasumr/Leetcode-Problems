@@ -285,4 +285,8 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0258-add-digits) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/kalaiyarasumr/Leetcode-Problems/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
